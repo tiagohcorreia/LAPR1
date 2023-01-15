@@ -35,10 +35,10 @@ Este repositório contém artefactos didáticos relevantes para o projeto integr
 ## Membros ##
 ------------------
 
-| Nome               | Números |
-|--------------------|---------|
-| **João Pinto**     | 1221694 |
-| **Rafael Araújo**  | 1201804 |
-| **Vasco Sousa**    | 1221700 |
-| **Tiago Correia**  | 1211742 |
-| **Dephane Cabral** | 1221636 |
+| Nome               |
+|--------------------|
+| **João Pinto**     |
+| **Rafael Araújo**  |
+| **Vasco Sousa**    |
+| **Tiago Correia**  |
+| **Dephane Cabral** |
